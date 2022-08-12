@@ -1,0 +1,174 @@
+@media (min-width: 768px ) {
+
+  .md-bg-orange {
+    background-color: #e67b13;
+   }
+    .md-img-01-1 {
+        height: 360px;
+        width: 361px;
+    }
+
+    .md-img-01-2 {
+        height: 172px;
+        width: 203px;
+    }
+/*--img2--*/
+    .md-img-02-1 {
+        height: 480px;
+        width: 253px;
+    }
+
+    .md-img-02-2 {
+        height: 188px;
+        width: 288px;
+    }
+/*--img3--*/
+    .md-img-03-1 {
+        height: 274px;
+        width: 219px;
+    }
+
+/*--img4--*/
+    .md-img-04-1 {
+        height: 274px;
+        width: 353px;
+    }
+
+    .md-img-04-2 {
+        height: 186px;
+        width: 372px;
+    }
+
+/*--img5--*/
+    .md-img-05-1 {
+        height: 242px;
+        width: 318px;
+    }
+
+    .md-img-05-2 {
+        height: 318px;
+        width: 576px;
+    }
+/*--img6--*/
+    .md-img-06-1 {
+        height: 315px;
+        width: 340px;
+    }
+
+    .md-img-06-2 {
+        height: 345px;
+        width: 315px;
+    }
+
+    .md-img-06-3 {
+        height: 255px;
+        width: 313px;
+    }
+
+    .md-img-06-4 {
+        height: 281px;
+        width: 345px;
+    }
+
+    .md-img-06-5 {
+        height: 345px;
+        width: 244px;
+    }
+
+    .md-colum-1 {
+        flex: 0 0 auto;
+        padding-top: 2em;
+    }
+}
+
+
+@media (max-width: 991px) {
+
+
+  }
+
+  @media (max-width: 425px) {
+    
+    .sm-img-01-1 {
+        height: 270px;
+        width: 240px;
+        margin-top: -203px;
+        margin-left: -50px;
+    
+    }
+
+    .sm-img-01-2 {
+        height: 203px;
+        width: 172px;
+    }
+/*--img2--*/
+    .sm-img-02-1 {
+        height: 428px;
+        width: 270px;
+    }
+
+    .sm-img-02-2 {
+        height: 155px;
+        width: 220px;
+    }
+/*--img3--*/
+    .sm-img-03-1 {
+        height: 158px;
+        width: 235px;
+    }
+
+/*--img4--*/
+    .sm-img-04-1 {
+        height: 232px;
+        width: 316px;
+    }
+
+    .sm-img-04-2 {
+        height: 175px;
+        width: 340px;
+    }
+
+/*--img5--*/
+    .sm-img-05-1 {
+        height: 240px;
+        width: 340px;
+    }
+
+    .sm-img-05-2 {
+        height: 191px;
+        width: 340px;
+    }
+/*--img6--*/
+    .sm-img-06-1 {
+        height: 315px;
+        width: 340px;
+    }
+
+    .sm-img-06-2 {
+        height: 255px;
+        width: 320px;
+    }
+
+  .sm-bg-orange {
+    background-color: #e67b13;
+}
+
+.sm-display{
+    display: none;
+}
+
+.sm-pd {
+    padding-right: 8em;
+}
+
+.sm-pt {
+    padding-top: 5em;
+}
+}
+
+
+@media (max-width: 1199px) {
+
+
+
+  }

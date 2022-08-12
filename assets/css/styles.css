@@ -1,0 +1,168 @@
+.u-body {
+    color: black;
+    background-color: white;
+}
+
+.u-section-2 {
+    background-image: none;
+}
+
+.u-palette-base {
+    color: white;
+    background-color: #e67b13;
+}
+
+.u-clearfix:before {
+    display: table;
+    content: '';
+}
+.dialog-wrapper {
+    display: none !important;
+}
+
+.bg-orange {
+    background-color: #e67b13;
+}
+
+.bg-black {
+    background-color: #292a33;
+}
+
+.bg-grey {
+    background-color: #333333;
+}
+
+.wrap,
+#main {
+    height: 100vh;
+    margin: 0 !important;
+}
+
+iframe {
+    display: none;
+}
+
+
+html,
+body {
+    height: 100%;
+}
+
+.page-preview {
+    border-radius: 0;
+    height: 100%;
+}
+
+.page-preview-header {
+    background: #f2f2f2;
+    border: none;
+    height: 70px;
+    position: relative;
+    text-align: center;
+}
+
+.page-preview-header > a {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 4px;
+}
+
+.page-preview-header > a:hover {
+    background: #e2f0fc;
+    text-decoration: none;
+}
+
+.page-preview-header > a.active {
+    background: #c9e4f9;
+}
+
+.page-preview-header > .close {
+    float: right;
+    margin-right: 10px;
+}
+
+.page-preview-body {
+    height: calc(100% - 70px);
+    overflow: hidden;
+    text-align: center;
+}
+
+.page-preview-body iframe {
+    border: none;
+    display: inline-block;
+    height: 100%;
+}
+
+.u-back-image.u-image-contain, .u-image.u-image-contain {
+    object-fit: contain;
+    background-size: contain;
+}
+
+.u-inner-container-layout, .u-container-layout > * {
+    position: relative;
+}
+
+.u-image, .u-background-effect-image, .u-video-poster {
+    object-fit: cover;
+    display: block;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.u-section-2 .u-image-1 {
+    width: 322px;
+    height: 270px;
+    margin: 93px 0 0 auto;
+}
+
+.u-section-2 .u-image-2 {
+    height: 593px;
+    width: 570px;
+    margin: -395px auto 0 -62px;
+}
+
+.u-section-7 .u-image-4 {
+    width: 312px;
+    height: 224px;
+    margin: -64px auto -61px 0;
+}
+
+.u-opacity-20 {
+    opacity: 0.2;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.justify-flex-end{
+    justify-content: flex-end
+}
+
+footer{
+    width: 100%; height: 70px;
+}
+.text-color-white {
+    text-align : center;
+    color : #ffffff
+}
+.text-color-brown {
+    text-align : center;
+    color : #F5C79B
+}
+
+.bg-footer {
+    background-color: #777777;
+    
+}
+
+.Position1 {
+    position:relative;
+    top: 120px;
+    right: 100px;
+}
